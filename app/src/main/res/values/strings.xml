@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlappyFriends</string>
+    <string name="game_activity">GameActicity</string>
+</resources>

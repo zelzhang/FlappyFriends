@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="GAME_IDLE">0</integer>
+    <integer name="GAME_PREPARE">1</integer>
+    <integer name="GAME_OPRATE">2</integer>
+    <integer name="GAME_STOP">3</integer>
+
+    <integer name="MAX_CAMERA_SCROLL_SPEED">9</integer>
+    <integer name="CAMERA_SCROLL_FACTOR">2</integer>
+
+    <!-- Command Defined Section-->
+    <integer name="COMMAND_BIRD_JUMP">10</integer>
+    <integer name="COMMAND_PIPE_MOVE">11</integer>
+
+</resources>
