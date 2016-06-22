@@ -1,6 +1,7 @@
 package softwarestudio.course.finalproject.flappyfriends;
 
 import android.support.v7.widget.LinearLayoutCompat;
+import android.util.Log;
 
 import org.andengine.engine.camera.Camera;
 import org.andengine.engine.options.EngineOptions;
